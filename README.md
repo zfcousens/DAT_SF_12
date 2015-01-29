@@ -10,7 +10,7 @@ DAT SF 12
 <tr><td></td><td>January 15 – March 31</td></tr>
 <tr><td>Office Hours:<td><b>Alex Chao</b>, 5:30 - 6:30 before class at GA</td></tr>
 <tr><td></td><td><b>Otto Stegmaier</b>, 9:30 - 10:00 after class at GA</td></tr>
-<tr><td></td><td><b>Ramesh Sampath</b>, 2:00 - 6:00 Saturdays remote</td></tr>
+<tr><td></td><td><b>Ramesh Sampath</b>, 4:00 - 6:00 Saturdays remote</td></tr>
 <tr><td></td><td>Can also set by appointment</td></tr>
 </table>
 
