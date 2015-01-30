@@ -17,3 +17,30 @@ DAT SF 12
 Homework is to be submitted by posting it to your own github repo. Then post the URL and folder where the homework
 lives at [here](http://goo.gl/forms/iH6bHx0tzW).
 
+
+------------------------
+Tentative Course Outline
+------------------------
+
+1. Intro to Data Science, Relational Databases & SQL
+2. Getting started with IPython & Git
+3. APIs and semi-structured data
+4. IPython.parallel & StarCluster
+5. Hadoop Distributed File System and Spark
+6. Intro to ML: k-Nearest Neighbor Classification
+7. Clustering: Hierarchical and K-Means
+8. Probability, A/B Tests & Statistical Significance
+9. Linear Regression, ANOVA
+10. Project Elevator Pitches
+11. Logistic Regression, Regularization
+12. Time Series Analysis & Midterm Review
+13. Principal Components Analysis
+14. Text Mining & Naïve Bayes
+15. Nonlinear Models
+16. Grid Search and Parameter Selection
+17. Bringing it Together
+18. Final Project Working Session
+19. Final Project Working Session
+20. Final Project Presentations (12 min. each)
+21. Final Project Presentations (12 min. each)
+22. Future Directions 
