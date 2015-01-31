@@ -34,8 +34,11 @@ Tentative Course Outline
 6. Intro to ML: k-Nearest Neighbor Classification
 	- [Nearest Neighbor Methods](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture11.pdf) (PDF Slides)
 	- [k-Nearest Neighbor Classification Algorithm](https://www.youtube.com/watch?v=4ObVzTuFivY) (YouTube Video)
-	- [k Nearest Neighbors](https://class.coursera.org/datasci-001/lecture/161) (Coursera Video)
+	- [K Nearest Neighbors](https://class.coursera.org/datasci-001/lecture/161) (Coursera Video)
+	- [KNN for Humans](http://www.jiaaro.com/KNN-for-humans/)
+	- [Intuitive Classification using KNN and Python](http://blog.yhathq.com/posts/classification-using-knn-and-python.html)
 	- [Nearest Neighbors Classification](http://scikit-learn.org/stable/modules/neighbors.html#classification) (scikit-learn documentation)
+	- [Should I normalize/standardize/rescale the data?](http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html)
 7. Clustering: Hierarchical and K-Means
 	- [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/index.html) (web tutorial)
 	- [K-means](http://scikit-learn.org/stable/modules/clustering.html#k-means) (scikit-learn documentation)
