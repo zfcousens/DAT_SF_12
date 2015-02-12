@@ -49,6 +49,8 @@ Tentative Course Outline
 	- [Visualizing Distributions of Data](http://stanford.edu/~mwaskom/software/seaborn/tutorial/plotting_distributions.html)
 9. Multiple Linear Regression and ANOVA
 	- [Plotting Linear Models using Seaborn](http://stanford.edu/~mwaskom/software/seaborn/tutorial/quantitative_linear_models.html)
+	- [Why ANOVA and Linear Regression are the Same Analysis](http://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
+	- [Linear Regresion and ANOVA]http://www.math.smith.edu/r/excerpt-4.pdf) (Examples in R)
 10. Project Elevator Pitches
 11. Logistic Regression and Generlized Linear Models
 	- [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
